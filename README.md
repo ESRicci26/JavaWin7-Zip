@@ -139,3 +139,9 @@ A aplicação inclui proteções contra:
 
 A aplicação utiliza:
 - **FlatLaf**:
+
+- ## 📞 Contact: (011) 98678-2984
+
+Name: esricci26@gmail.com
+
+Project Link: https://github.com/ESRicci26/JavaWin7-Zip
